@@ -11,3 +11,4 @@ archiving what I learned today
 -   [callback function](https://github.com/seoyoung-dev/TIL/blob/main/notes/JavaScript/call_back_function.md)
 -   [scope & closure](https://github.com/seoyoung-dev/TIL/blob/main/notes/JavaScript/scope_closure.md)
 -   [prototype](https://github.com/seoyoung-dev/TIL/blob/main/notes/JavaScript/prototype.md)
+-   [this](https://github.com/seoyoung-dev/TIL/blob/main/notes/JavaScript/this.md)
