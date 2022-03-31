@@ -18,4 +18,5 @@ archiving what I learned today
 
 ## 실전 리액트 프로그래밍 스터디(이재승 저, 인사이트)
 
--   [1장 리액트 프로젝트 시작하기](#)
+-   [1장 리액트 프로젝트 시작하기](https://github.com/seoyoung-dev/TIL/blob/main/notes/react_programming/chapter_1.md)
+-   [3장 중요하지만 헷갈리는 리액트 개념 이해하기](https://github.com/seoyoung-dev/TIL/blob/main/notes/react_programming/chapter_3.md)
