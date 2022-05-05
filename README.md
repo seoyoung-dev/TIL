@@ -22,3 +22,5 @@ archiving what I learned today
 -   [3장 중요하지만 헷갈리는 리액트 개념 이해하기](https://github.com/seoyoung-dev/TIL/blob/main/notes/react_programming/chapter_3.md)
 -   [4장 리액트 실전 활용법](https://github.com/seoyoung-dev/TIL/blob/main/notes/react_programming/chapter_4.md)
 -   [5장 레거시 프로젝트를 위한 클래스형 컴포넌트](https://github.com/seoyoung-dev/TIL/blob/main/notes/react_programming/chapter_5.md)
+-   [6장 리덕스로 상태 관리하기](https://github.com/seoyoung-dev/TIL/blob/main/notes/react_programming/chapter_6.md)
+-   [8장 서버사이드 렌더링 그리고 Next.js](https://github.com/seoyoung-dev/TIL/blob/main/notes/react_programming/chapter_8.md)
