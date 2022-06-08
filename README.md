@@ -25,6 +25,9 @@ archiving what I learned today
 -   [6장 리덕스로 상태 관리하기](https://github.com/seoyoung-dev/TIL/blob/main/notes/react_programming/chapter_6.md)
 -   [8장 서버사이드 렌더링 그리고 Next.js](https://github.com/seoyoung-dev/TIL/blob/main/notes/react_programming/chapter_8.md)
 
-## React_hooks
+<br />
+<br />
+
+## React hooks
 
 -   [useRef](https://github.com/seoyoung-dev/TIL/blob/main/notes/React_hooks/useRef.md)
