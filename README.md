@@ -31,3 +31,4 @@ archiving what I learned today
 ## React hooks
 
 -   [useRef](https://github.com/seoyoung-dev/TIL/blob/main/notes/React_hooks/useRef.md)
+-   [useMemo](https://github.com/seoyoung-dev/TIL/blob/main/notes/React_hooks/useMemo.md)
