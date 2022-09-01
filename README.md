@@ -11,7 +11,8 @@ archiving what I learned today
 -   [callback function](https://github.com/seoyoung-dev/TIL/blob/main/notes/JavaScript/call_back_function.md)
 -   [scope & closure](https://github.com/seoyoung-dev/TIL/blob/main/notes/JavaScript/scope_closure.md)
 -   [prototype](https://github.com/seoyoung-dev/TIL/blob/main/notes/JavaScript/prototype.md)
--   [this](https://github.com/seoyoung-dev/TIL/blob/main/notes/JavaScript/thisf.md)
+-   [this](https://github.com/seoyoung-dev/TIL/blob/main/notes/JavaScript/this.md)
+-   [apply/call/bind](https://github.com/seoyoung-dev/TIL/blob/main/notes/JavaScript/apply_call_bind.md)
 
 <br />
 <br />
