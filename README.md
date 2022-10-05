@@ -39,4 +39,5 @@ archiving what I learned today
 
 ## Frontend
 
--   [WebPack](#)
+-   [webpack](#)
+-   [함수형 프로그래밍](https://github.com/seoyoung-dev/TIL/blob/main/notes/Frontend/functional_programming.md)
